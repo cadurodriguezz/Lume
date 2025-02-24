@@ -19,7 +19,7 @@ The design is minimalistic, focusing on **light tones** and a **calming atmosphe
 
 ---
 
-## ⚙Challenges Faced
+## Challenges Faced
 
 - **Responsive Layout**: Adjusting the layout across devices took time and experimentation.
 - **CSS Flexbox**: Initially challenging, but essential for creating flexible layouts.
@@ -32,4 +32,4 @@ Lume was a small project that helped me build a solid foundation in front-end de
 
 ---
 
-Feel free to explore the code and contribute to this project. Happy coding! 💻✨
+Feel free to explore the code and contribute to this project. Happy coding! 💻
