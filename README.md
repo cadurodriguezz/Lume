@@ -1,6 +1,8 @@
 # Lume - My First Front-End Project
 
 **Lume** is my first front-end project, built with **HTML** and **CSS** to showcase basic web design concepts. The name reflects the idea of bringing light through a simple, clean design.
+![Lume](https://github.com/user-attachments/assets/61746827-56a3-44a1-8027-f573fb36ae8c)
+
 
 ---
 
