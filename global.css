@@ -1,0 +1,54 @@
+* {
+    color: rgb(255, 255, 255);
+    font-family: "Anek Latin", sans-serif;
+}
+
+body, html {
+    background: #010709ef;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+
+.flex-container { 
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+x
+.logo {
+    justify-content: flex-start;
+    margin-top: 20px;
+}
+
+.menu-nav ul {
+    font-size: 20px;
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    
+}
+
+.menu-nav ul li a { 
+    text-decoration: none;
+}
+
+
+.footer {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.footer a {
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: 20px;
+}
